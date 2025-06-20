@@ -1,0 +1,29 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Optional: si usas .env para variables de entorno
+.env
+
+# Logs
+logs/
+*.log
+*.out
+*.pid
+
+# Editor y sistema
+.DS_Store
+Thumbs.db
+
+# VS Code config
+.vscode/
+
+# Mac system files
+*.DS_Store
+
+# Compilados (por si luego usas TypeScript o bundlers)
+dist/
+build/
